@@ -148,7 +148,7 @@ Matchday 9
 
 Matchday 10
 [Sat Nov/28]
-  Arsenal FC               -  Wolverhampton Wanderers FC
+  Arsenal FC               --  Wolverhampton Wanderers FC
   Leicester City FC        -  Fulham FC
   13.30  Brighton & Hove Albion FC  -  Liverpool FC
   16.00  Crystal Palace FC        -  Newcastle United FC
